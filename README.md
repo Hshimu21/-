@@ -4,6 +4,8 @@
 
 [Processing-mediaスロット project](./media/)
 
+[Processing-たまごわり！ project](./tamago/)
+
 [Processing-タッチゲーム project](./tatti/)
 
 [画像認識システム-マスクチェック project](./マスクチェック/)
